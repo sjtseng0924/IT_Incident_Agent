@@ -147,5 +147,3 @@ Generated incident reports can include:
 
 The reports are stored in the database and can be displayed through the web interface, turning temporary incident discussions into reusable organizational knowledge.
 
----
-
