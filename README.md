@@ -106,8 +106,6 @@ The backend and PostgreSQL database can be started with Docker Compose:
 docker compose up --build
 ```
 
-```
-
 ### 4. Start the Frontend
 
 Open another terminal:
